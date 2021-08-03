@@ -9,7 +9,7 @@ namespace ApplicationManagement
         /// </summary>
         /// <returns></returns>
         public string SayHi() {
-            return "你好！";
+            return "你好！很高兴见到你";
         }
         
     }
